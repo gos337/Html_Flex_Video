@@ -1,5 +1,6 @@
 // sass 명령어
 // sass --watch scss/style.scss:css/style.css
+// 교제에서는 sass --watch scss/style.scss css/style.css
 
 * {
    margin : 0px;
@@ -13,4 +14,8 @@ ul, ol, li {
 
 a {
    text-decoration: none;
+}
+
+body {
+   background: #333;
 }
