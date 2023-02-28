@@ -71,7 +71,7 @@ main {
         main section article:hover .inner .txt {
           padding-top: 20px; }
           main section article:hover .inner .txt h2 {
-            font-size: 3.5vw; }
+            font-size: 3vw; }
             main section article:hover .inner .txt h2::after {
               width: 120px;
               background: orange; }
