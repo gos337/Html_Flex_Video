@@ -76,7 +76,7 @@ main {
               width: 120px;
               background: orange; }
           main section article:hover .inner .txt p {
-            width: 90%; }
+            width: 100%; }
         main section article:hover .inner figure {
           height: 20vh;
           top: 25px;
